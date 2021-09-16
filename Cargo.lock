@@ -1229,8 +1229,8 @@ checksum = "212d0f5754cb6769937f4501cc0e67f4f4483c8d2c3e1e922ee9edbe4ab4c7c0"
 
 [[package]]
 name = "discv5"
-version = "0.1.0-beta.9"
-source = "git+https://github.com/sigp/discv5?branch=improve-bucket-state#04de420f82f7dffc74308e4ab18be1d1c138ab31"
+version = "0.1.0-beta.10"
+source = "git+https://github.com/sigp/discv5?rev=10247bbd299227fef20233f2f5a8de9780de09ac#10247bbd299227fef20233f2f5a8de9780de09ac"
 dependencies = [
  "aes",
  "aes-gcm",
